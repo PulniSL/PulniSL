@@ -24,7 +24,7 @@
 - 📫 How to reach me **pulniwijebandara2002@gmail.com**
      </td>
      <td>
-       <img align="right" width=50% length=50% src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"><br>
+       <img align="right" width=50% length=50% src="https://c.tenor.com/-UygBh3nnfEAAAAM/coding.gif"><br>
      </td>
   </tr>
 
@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/perc_y002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perc_y002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pulni-wijebandara-9a46292a4/" target="blank"><img align="center" src=https://c.tenor.com/-UygBh3nnfEAAAAM/coding.gif alt="pulni wijebandara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pulni-wijebandara-9a46292a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulni wijebandara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
